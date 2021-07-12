@@ -4,19 +4,19 @@
     "url": "https://www.satubitcoin.com",
     "icon": "https://favicons.githubusercontent.com/www.satubitcoin.com",
     "slug": "1bitcoin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 520,
-    "timeDay": 676,
-    "timeWeek": 534,
-    "timeMonth": 516,
+    "timeDay": 617,
+    "timeWeek": 537,
+    "timeMonth": 517,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2021-07-12": 1
+      "2021-07-12": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://signalsupply.co",
     "icon": "https://favicons.githubusercontent.com/signalsupply.co",
     "slug": "signal-supply",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 567,
-    "timeWeek": 631,
-    "timeMonth": 607,
-    "timeYear": 616,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 617,
+    "timeDay": 646,
+    "timeWeek": 642,
+    "timeMonth": 611,
+    "timeYear": 617,
     "dailyMinutesDown": {
-      "2021-07-12": 1
+      "2021-07-12": 12
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://fontsss.com",
     "icon": "https://favicons.githubusercontent.com/fontsss.com",
     "slug": "fontsss",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 320,
-    "timeDay": 325,
-    "timeWeek": 302,
+    "timeDay": 331,
+    "timeWeek": 307,
     "timeMonth": 335,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2021-07-12": 0
+      "2021-07-12": 11
     }
   }
 ]
