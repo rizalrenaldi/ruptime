@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.satubitcoin.com",
     "slug": "1bitcoin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 520,
-    "timeDay": 617,
-    "timeWeek": 537,
+    "timeDay": 546,
+    "timeWeek": 538,
     "timeMonth": 517,
     "timeYear": 520,
-    "dailyMinutesDown": {
-      "2021-07-12": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SignalSupply",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/signalsupply.co",
     "slug": "signal-supply",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 617,
-    "timeDay": 646,
-    "timeWeek": 642,
-    "timeMonth": 611,
-    "timeYear": 617,
-    "dailyMinutesDown": {
-      "2021-07-12": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 622,
+    "timeDay": 828,
+    "timeWeek": 692,
+    "timeMonth": 624,
+    "timeYear": 622,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Logoipsum",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 311,
-    "timeWeek": 361,
-    "timeMonth": 425,
-    "timeYear": 354,
+    "time": 355,
+    "timeDay": 432,
+    "timeWeek": 367,
+    "timeMonth": 426,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   },
   {
@@ -63,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/fontsss.com",
     "slug": "fontsss",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 320,
-    "timeDay": 331,
-    "timeWeek": 307,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 321,
+    "timeDay": 343,
+    "timeWeek": 314,
     "timeMonth": 335,
-    "timeYear": 320,
-    "dailyMinutesDown": {
-      "2021-07-12": 11
-    }
+    "timeYear": 321,
+    "dailyMinutesDown": {}
   }
 ]
