@@ -58,9 +58,9 @@
     "url": "https://fontsss.com",
     "icon": "https://favicons.githubusercontent.com/fontsss.com",
     "slug": "fontsss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 314,
     "timeMonth": 335,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 0
+    }
   }
 ]
