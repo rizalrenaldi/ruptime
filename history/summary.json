@@ -4,10 +4,10 @@
     "url": "https://www.satubitcoin.com",
     "icon": "https://favicons.githubusercontent.com/www.satubitcoin.com",
     "slug": "1bitcoin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
@@ -15,16 +15,18 @@
     "timeWeek": 539,
     "timeMonth": 569,
     "timeYear": 547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-14": 1
+    }
   },
   {
     "name": "SignalSupply",
     "url": "https://signalsupply.co",
     "icon": "https://favicons.githubusercontent.com/signalsupply.co",
     "slug": "signal-supply",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 637,
     "timeMonth": 660,
     "timeYear": 766,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-14": 0
+    }
   },
   {
     "name": "Logoipsum",
