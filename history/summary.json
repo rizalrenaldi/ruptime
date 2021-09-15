@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.satubitcoin.com",
     "slug": "1bitcoin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 546,
-    "timeDay": 340,
-    "timeWeek": 513,
-    "timeMonth": 561,
-    "timeYear": 546,
-    "dailyMinutesDown": {
-      "2021-09-14": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 544,
+    "timeDay": 363,
+    "timeWeek": 492,
+    "timeMonth": 558,
+    "timeYear": 544,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SignalSupply",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/signalsupply.co",
     "slug": "signal-supply",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 764,
-    "timeDay": 397,
-    "timeWeek": 609,
-    "timeMonth": 652,
-    "timeYear": 764,
-    "dailyMinutesDown": {
-      "2021-09-14": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 761,
+    "timeDay": 421,
+    "timeWeek": 585,
+    "timeMonth": 642,
+    "timeYear": 761,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Logoipsum",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 1755,
-    "timeWeek": 671,
-    "timeMonth": 545,
-    "timeYear": 437,
+    "time": 450,
+    "timeDay": 2021,
+    "timeWeek": 894,
+    "timeMonth": 594,
+    "timeYear": 450,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 335,
-    "timeDay": 584,
-    "timeWeek": 417,
-    "timeMonth": 354,
-    "timeYear": 335,
+    "time": 334,
+    "timeDay": 172,
+    "timeWeek": 385,
+    "timeMonth": 351,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2021-07-13": 26
     }
