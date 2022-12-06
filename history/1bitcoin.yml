@@ -1,7 +1,7 @@
 url: https://www.satubitcoin.com
-status: up
-code: 200
-responseTime: 412
-lastUpdated: 2022-12-06T18:43:42.191Z
+status: down
+code: 500
+responseTime: 3340
+lastUpdated: 2022-12-06T19:29:46.462Z
 startTime: Sun May 09 2021 17:48:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
