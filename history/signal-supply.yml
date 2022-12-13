@@ -1,7 +1,7 @@
 url: https://signalsupply.co
-status: up
-code: 200
-responseTime: 1226
-lastUpdated: 2022-12-13T13:57:28.975Z
+status: down
+code: 500
+responseTime: 3081
+lastUpdated: 2022-12-13T14:21:05.612Z
 startTime: Sun May 09 2021 17:48:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
