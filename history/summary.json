@@ -4,18 +4,20 @@
     "url": "https://www.satubitcoin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
+    "time": 456,
     "timeDay": 366,
     "timeWeek": 431,
     "timeMonth": 312,
     "timeYear": 364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-27": 0
+    }
   },
   {
     "name": "SignalSupply",
