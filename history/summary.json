@@ -4,9 +4,9 @@
     "url": "https://www.satubitcoin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "94.93%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 379,
     "timeYear": 369,
     "dailyMinutesDown": {
+      "2024-03-02": 0,
       "2024-02-27": 511
     }
   },
