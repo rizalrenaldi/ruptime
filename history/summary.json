@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "86.65%",
+    "uptime": "86.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.44%",
+    "uptimeYear": "55.17%",
     "time": 434,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2024-09-11": 35,
+      "2024-09-12": 36,
+      "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -205,10 +206,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 1161,
-    "timeWeek": 490,
-    "timeMonth": 564,
+    "time": 562,
+    "timeDay": 770,
+    "timeWeek": 523,
+    "timeMonth": 553,
     "timeYear": 505,
     "dailyMinutesDown": {
       "2024-03-16": 17
@@ -226,9 +227,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
-    "timeDay": 581,
-    "timeWeek": 418,
-    "timeMonth": 349,
+    "timeDay": 305,
+    "timeWeek": 384,
+    "timeMonth": 346,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2024-06-29": 18
@@ -245,16 +246,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2295,
-    "timeDay": 2876,
-    "timeWeek": 2839,
-    "timeMonth": 2271,
-    "timeYear": 2291,
+    "time": 2300,
+    "timeDay": 2538,
+    "timeWeek": 2803,
+    "timeMonth": 2317,
+    "timeYear": 2290,
     "dailyMinutesDown": {
       "2024-07-28": 25,
       "2024-03-16": 16,
-      "2023-11-14": 19,
-      "2023-09-13": 79
+      "2023-11-14": 19
     }
   }
 ]
