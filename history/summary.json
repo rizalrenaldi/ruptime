@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "64.51%",
+    "uptime": "64.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-03": 1278,
+      "2025-11-04": 43,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -379,8 +380,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   },
   {
@@ -390,15 +390,15 @@
     "slug": "signal-supply",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "90.30%",
-    "uptimeWeek": "90.01%",
+    "uptimeDay": "91.37%",
+    "uptimeWeek": "90.33%",
     "uptimeMonth": "93.93%",
     "uptimeYear": "99.44%",
     "time": 585,
-    "timeDay": 581,
-    "timeWeek": 605,
-    "timeMonth": 644,
-    "timeYear": 609,
+    "timeDay": 541,
+    "timeWeek": 600,
+    "timeMonth": 646,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2025-11-03": 126,
       "2025-11-02": 213,
@@ -442,11 +442,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.86%",
-    "time": 1705,
-    "timeDay": 1405,
-    "timeWeek": 1495,
-    "timeMonth": 2109,
-    "timeYear": 2190,
+    "time": 1707,
+    "timeDay": 1456,
+    "timeWeek": 1428,
+    "timeMonth": 2103,
+    "timeYear": 2189,
     "dailyMinutesDown": {
       "2025-11-02": 15,
       "2025-10-20": 69,
@@ -465,8 +465,7 @@
       "2025-07-20": 21,
       "2025-07-14": 16,
       "2025-06-12": 113,
-      "2025-04-22": 18,
-      "2024-11-04": 20
+      "2025-04-22": 18
     }
   },
   {
@@ -475,18 +474,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fontsss.com.ico",
     "slug": "fontsss",
     "status": "down",
-    "uptime": "92.95%",
+    "uptime": "92.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.46%",
-    "time": 915,
+    "uptimeYear": "68.42%",
+    "time": 912,
     "timeDay": 152,
-    "timeWeek": 165,
+    "timeWeek": 145,
     "timeMonth": 154,
-    "timeYear": 587,
+    "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-11-03": 1279,
+      "2025-11-04": 44,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -602,8 +602,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 316,
-      "2025-06-16": 16,
-      "2024-11-04": 19
+      "2025-06-16": 16
     }
   }
 ]
