@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-25": 645,
+      "2025-11-25": 657,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -388,19 +388,19 @@
     "url": "https://signalsupply.co",
     "icon": "https://icons.duckduckgo.com/ip3/signalsupply.co.ico",
     "slug": "signal-supply",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "82.53%",
-    "uptimeWeek": "89.33%",
-    "uptimeMonth": "93.01%",
+    "uptimeDay": "81.69%",
+    "uptimeWeek": "89.21%",
+    "uptimeMonth": "93.03%",
     "uptimeYear": "99.42%",
     "time": 622,
-    "timeDay": 838,
-    "timeWeek": 699,
-    "timeMonth": 663,
+    "timeDay": 797,
+    "timeWeek": 693,
+    "timeMonth": 662,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2025-11-25": 154,
+      "2025-11-25": 166,
       "2025-11-24": 135,
       "2025-11-23": 137,
       "2025-11-22": 130,
@@ -421,7 +421,7 @@
       "2025-11-07": 219,
       "2025-11-06": 108,
       "2025-11-05": 117,
-      "2025-11-04": 62
+      "2025-11-04": 40
     }
   },
   {
@@ -478,7 +478,7 @@
     "timeMonth": 170,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2025-11-25": 645,
+      "2025-11-25": 657,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
