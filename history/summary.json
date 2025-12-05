@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "63.31%",
+    "uptime": "63.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-04": 1435,
+      "2025-12-05": 47,
+      "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -379,8 +380,7 @@
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
-      "2024-12-06": 1440,
-      "2024-12-05": 1440
+      "2024-12-06": 1440
     }
   },
   {
@@ -388,19 +388,19 @@
     "url": "https://signalsupply.co",
     "icon": "https://icons.duckduckgo.com/ip3/signalsupply.co.ico",
     "slug": "signal-supply",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "92.69%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "92.80%",
+    "uptimeMonth": "92.55%",
     "uptimeYear": "99.38%",
     "time": 613,
-    "timeDay": 546,
-    "timeWeek": 661,
-    "timeMonth": 671,
+    "timeDay": 536,
+    "timeWeek": 658,
+    "timeMonth": 670,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-12-04": 53,
+      "2025-12-04": 42,
       "2025-12-03": 298,
       "2025-12-02": 78,
       "2025-12-01": 92,
@@ -423,7 +423,7 @@
       "2025-11-14": 114,
       "2025-11-13": 289,
       "2025-11-12": 116,
-      "2025-11-11": 149
+      "2025-11-11": 166
     }
   },
   {
@@ -474,14 +474,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.94%",
+    "uptimeYear": "59.93%",
     "time": 788,
     "timeDay": 164,
     "timeWeek": 162,
     "timeMonth": 167,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2025-12-04": 1435,
+      "2025-12-05": 47,
+      "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
