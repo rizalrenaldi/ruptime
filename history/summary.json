@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-30": 466,
+      "2025-12-30": 577,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -390,9 +390,9 @@
     "slug": "signal-supply",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "83.05%",
+    "uptimeDay": "85.44%",
     "uptimeWeek": "89.62%",
-    "uptimeMonth": "92.03%",
+    "uptimeMonth": "92.08%",
     "uptimeYear": "99.34%",
     "time": 640,
     "timeDay": 795,
@@ -424,7 +424,7 @@
       "2025-12-09": 300,
       "2025-12-08": 27,
       "2025-12-07": 178,
-      "2025-12-06": 66
+      "2025-12-06": 41
     }
   },
   {
@@ -471,18 +471,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fontsss.com.ico",
     "slug": "fontsss",
     "status": "down",
-    "uptime": "89.86%",
+    "uptime": "89.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.00%",
+    "uptimeYear": "52.98%",
     "time": 689,
     "timeDay": 131,
     "timeWeek": 138,
     "timeMonth": 135,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-12-30": 466,
+      "2025-12-30": 577,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
