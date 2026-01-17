@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "61.69%",
+    "uptime": "61.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-17": 1245,
+      "2026-01-17": 1304,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -388,15 +388,15 @@
     "url": "https://signalsupply.co",
     "icon": "https://icons.duckduckgo.com/ip3/signalsupply.co.ico",
     "slug": "signal-supply",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "90.82%",
+    "uptimeDay": "91.96%",
     "uptimeWeek": "88.42%",
-    "uptimeMonth": "91.44%",
+    "uptimeMonth": "91.53%",
     "uptimeYear": "99.29%",
     "time": 650,
     "timeDay": 769,
-    "timeWeek": 828,
+    "timeWeek": 842,
     "timeMonth": 698,
     "timeYear": 665,
     "dailyMinutesDown": {
@@ -425,7 +425,7 @@
       "2025-12-26": 168,
       "2025-12-25": 235,
       "2025-12-24": 64,
-      "2025-12-23": 101
+      "2025-12-23": 62
     }
   },
   {
@@ -442,7 +442,7 @@
     "time": 1913,
     "timeDay": 2599,
     "timeWeek": 1520,
-    "timeMonth": 1644,
+    "timeMonth": 1615,
     "timeYear": 2226,
     "dailyMinutesDown": {
       "2026-01-08": 26,
@@ -477,14 +477,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.92%",
+    "uptimeYear": "47.91%",
     "time": 599,
     "timeDay": 76,
     "timeWeek": 117,
     "timeMonth": 121,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2026-01-17": 1245,
+      "2026-01-17": 1304,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
