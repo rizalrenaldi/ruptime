@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-09": 507,
+      "2026-03-09": 552,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -388,12 +388,12 @@
     "url": "https://signalsupply.co",
     "icon": "https://icons.duckduckgo.com/ip3/signalsupply.co.ico",
     "slug": "signal-supply",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "91.08%",
+    "uptimeDay": "91.07%",
     "uptimeWeek": "88.04%",
-    "uptimeMonth": "89.03%",
-    "uptimeYear": "98.88%",
+    "uptimeMonth": "89.02%",
+    "uptimeYear": "98.89%",
     "time": 669,
     "timeDay": 630,
     "timeWeek": 765,
@@ -434,7 +434,7 @@
       "2026-02-05": 234,
       "2026-02-04": 147,
       "2026-02-03": 274,
-      "2026-02-02": 75
+      "2026-02-02": 33
     }
   },
   {
@@ -486,14 +486,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "34.09%",
+    "uptimeYear": "34.08%",
     "time": 476,
     "timeDay": 89,
     "timeWeek": 117,
     "timeMonth": 132,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2026-03-09": 507,
+      "2026-03-09": 552,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
