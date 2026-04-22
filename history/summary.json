@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-21": 1386,
+      "2026-04-22": 76,
+      "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -379,8 +380,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
-      "2025-04-23": 1440,
-      "2025-04-22": 1440
+      "2025-04-23": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "86.95%",
     "uptimeYear": "98.71%",
     "time": 696,
-    "timeDay": 994,
-    "timeWeek": 1050,
-    "timeMonth": 930,
-    "timeYear": 710,
+    "timeDay": 1134,
+    "timeWeek": 1109,
+    "timeMonth": 935,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2026-04-21": 201,
       "2026-04-20": 408,
@@ -450,11 +450,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 2074,
-    "timeDay": 374,
-    "timeWeek": 844,
-    "timeMonth": 1884,
-    "timeYear": 2134,
+    "time": 2071,
+    "timeDay": 333,
+    "timeWeek": 599,
+    "timeMonth": 1813,
+    "timeYear": 2129,
     "dailyMinutesDown": {
       "2026-01-08": 26,
       "2025-12-02": 29,
@@ -474,8 +474,7 @@
       "2025-08-16": 89,
       "2025-07-20": 21,
       "2025-07-14": 16,
-      "2025-06-12": 113,
-      "2025-04-22": 18
+      "2025-06-12": 113
     }
   },
   {
@@ -484,18 +483,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fontsss.com.ico",
     "slug": "fontsss",
     "status": "down",
-    "uptime": "84.26%",
+    "uptime": "84.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.14%",
+    "uptimeYear": "22.11%",
     "time": 458,
-    "timeDay": 140,
-    "timeWeek": 142,
-    "timeMonth": 136,
-    "timeYear": 341,
+    "timeDay": 103,
+    "timeWeek": 147,
+    "timeMonth": 138,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2026-04-21": 1386,
+      "2026-04-22": 76,
+      "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
