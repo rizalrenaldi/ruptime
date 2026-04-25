@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "58.38%",
+    "uptime": "58.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-25": 74,
+      "2026-04-25": 306,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -388,11 +388,11 @@
     "url": "https://signalsupply.co",
     "icon": "https://icons.duckduckgo.com/ip3/signalsupply.co.ico",
     "slug": "signal-supply",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "87.07%",
+    "uptimeDay": "92.94%",
     "uptimeWeek": "87.15%",
-    "uptimeMonth": "86.62%",
+    "uptimeMonth": "86.70%",
     "uptimeYear": "98.66%",
     "time": 701,
     "timeDay": 976,
@@ -400,6 +400,7 @@
     "timeMonth": 940,
     "timeYear": 714,
     "dailyMinutesDown": {
+      "2026-04-25": 0,
       "2026-04-24": 186,
       "2026-04-23": 116,
       "2026-04-22": 142,
@@ -437,8 +438,7 @@
       "2026-03-18": 43,
       "2026-03-17": 281,
       "2026-03-16": 136,
-      "2026-03-15": 54,
-      "2026-03-14": 20
+      "2026-03-15": 54
     }
   },
   {
@@ -489,14 +489,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.29%",
+    "uptimeYear": "21.25%",
     "time": 456,
     "timeDay": 134,
     "timeWeek": 115,
     "timeMonth": 130,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2026-04-25": 74,
+      "2026-04-25": 306,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
