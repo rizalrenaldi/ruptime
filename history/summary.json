@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "55.52%",
+    "uptime": "55.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-27": 90,
+      "2026-07-28": 77,
+      "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
@@ -379,8 +380,7 @@
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
-      "2025-07-29": 1440,
-      "2025-07-28": 1440
+      "2025-07-29": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
     "time": 718,
-    "timeDay": 574,
-    "timeWeek": 737,
-    "timeMonth": 498,
+    "timeDay": 214,
+    "timeWeek": 695,
+    "timeMonth": 474,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2026-03-20": 27,
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1899,
-    "timeDay": 379,
-    "timeWeek": 421,
-    "timeMonth": 634,
-    "timeYear": 1649,
+    "time": 1895,
+    "timeDay": 244,
+    "timeWeek": 397,
+    "timeMonth": 622,
+    "timeYear": 1643,
     "dailyMinutesDown": {
       "2025-08-16": 89,
       "2025-08-27": 53,
@@ -489,12 +489,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "22.43%",
-    "time": 389,
-    "timeDay": 488,
-    "timeWeek": 370,
-    "timeMonth": 381,
-    "timeYear": 199,
+    "uptimeYear": "22.70%",
+    "time": 385,
+    "timeDay": 271,
+    "timeWeek": 377,
+    "timeMonth": 372,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -777,8 +777,7 @@
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
-      "2025-07-29": 1440,
-      "2025-07-28": 1440
+      "2025-07-29": 1440
     }
   }
 ]
