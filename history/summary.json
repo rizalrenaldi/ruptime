@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "55.50%",
+    "uptime": "55.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-28": 77,
+      "2026-07-29": 79,
+      "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -379,8 +380,7 @@
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
-      "2025-07-30": 1440,
-      "2025-07-29": 1440
+      "2025-07-30": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
-    "time": 718,
-    "timeDay": 214,
-    "timeWeek": 695,
-    "timeMonth": 474,
+    "time": 719,
+    "timeDay": 927,
+    "timeWeek": 593,
+    "timeMonth": 491,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2026-03-20": 27,
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1895,
-    "timeDay": 244,
-    "timeWeek": 397,
-    "timeMonth": 622,
-    "timeYear": 1643,
+    "time": 1893,
+    "timeDay": 575,
+    "timeWeek": 420,
+    "timeMonth": 624,
+    "timeYear": 1638,
     "dailyMinutesDown": {
       "2025-08-16": 89,
       "2025-08-27": 53,
@@ -485,15 +485,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fontsss.com.ico",
     "slug": "fontsss",
     "status": "up",
-    "uptime": "84.31%",
+    "uptime": "84.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "22.70%",
+    "uptimeYear": "22.97%",
     "time": 385,
-    "timeDay": 271,
-    "timeWeek": 377,
-    "timeMonth": 372,
+    "timeDay": 686,
+    "timeWeek": 432,
+    "timeMonth": 386,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2026-05-06": 285,
@@ -776,8 +776,7 @@
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
-      "2025-07-30": 1440,
-      "2025-07-29": 1440
+      "2025-07-30": 1440
     }
   }
 ]
