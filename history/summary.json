@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "54.66%",
+    "uptime": "54.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 32,
+      "2026-08-27": 323,
+      "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -379,8 +380,7 @@
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
-      "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-28": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
     "time": 723,
-    "timeDay": 654,
-    "timeWeek": 460,
-    "timeMonth": 460,
-    "timeYear": 727,
+    "timeDay": 424,
+    "timeWeek": 486,
+    "timeMonth": 455,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2026-03-20": 27,
       "2026-03-21": 70,
@@ -455,13 +455,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1842,
-    "timeDay": 2770,
-    "timeWeek": 1014,
-    "timeMonth": 1058,
-    "timeYear": 1519,
+    "time": 1840,
+    "timeDay": 464,
+    "timeWeek": 1030,
+    "timeMonth": 1060,
+    "timeYear": 1511,
     "dailyMinutesDown": {
-      "2025-08-27": 53,
       "2025-08-28": 61,
       "2025-08-29": 24,
       "2025-08-30": 47,
@@ -484,15 +483,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fontsss.com.ico",
     "slug": "fontsss",
     "status": "up",
-    "uptime": "84.55%",
+    "uptime": "84.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.64%",
-    "time": 343,
-    "timeDay": 447,
-    "timeWeek": 449,
-    "timeMonth": 417,
+    "uptimeYear": "30.97%",
+    "time": 339,
+    "timeDay": 324,
+    "timeWeek": 443,
+    "timeMonth": 412,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2026-05-06": 285,
@@ -746,8 +745,7 @@
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
-      "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-28": 1440
     }
   }
 ]
