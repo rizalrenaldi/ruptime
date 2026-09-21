@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "53.96%",
+    "uptime": "53.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 118,
+      "2026-09-21": 119,
+      "2026-09-20": 1440,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -379,8 +380,7 @@
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
-      "2025-09-22": 1440,
-      "2025-09-21": 1440
+      "2025-09-22": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
     "time": 721,
-    "timeDay": 1520,
-    "timeWeek": 856,
-    "timeMonth": 552,
-    "timeYear": 729,
+    "timeDay": 672,
+    "timeWeek": 875,
+    "timeMonth": 555,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2026-03-20": 27,
       "2026-03-21": 70,
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1609,
-    "timeDay": 5473,
-    "timeWeek": 1955,
-    "timeMonth": 1055,
-    "timeYear": 1439,
+    "time": 1608,
+    "timeDay": 661,
+    "timeWeek": 1563,
+    "timeMonth": 1027,
+    "timeYear": 1433,
     "dailyMinutesDown": {
       "2025-10-02": 15,
       "2025-10-20": 69,
@@ -478,12 +478,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.50%",
+    "uptimeYear": "37.78%",
     "time": 322,
-    "timeDay": 408,
-    "timeWeek": 551,
-    "timeMonth": 484,
-    "timeYear": 239,
+    "timeDay": 542,
+    "timeWeek": 530,
+    "timeMonth": 485,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -711,8 +711,7 @@
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
-      "2025-09-22": 1440,
-      "2025-09-21": 1440
+      "2025-09-22": 1440
     }
   }
 ]
