@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "53.42%",
+    "uptime": "53.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-10": 180,
+      "2026-10-11": 150,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -379,8 +380,7 @@
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
-      "2025-10-12": 1440,
-      "2025-10-11": 1440
+      "2025-10-12": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
     "time": 729,
-    "timeDay": 481,
-    "timeWeek": 1246,
-    "timeMonth": 1030,
-    "timeYear": 737,
+    "timeDay": 1188,
+    "timeWeek": 1202,
+    "timeMonth": 1054,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2026-03-20": 27,
       "2026-03-21": 70,
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1541,
-    "timeDay": 402,
-    "timeWeek": 605,
-    "timeMonth": 988,
-    "timeYear": 1377,
+    "time": 1537,
+    "timeDay": 290,
+    "timeWeek": 416,
+    "timeMonth": 972,
+    "timeYear": 1373,
     "dailyMinutesDown": {
       "2025-10-20": 69,
       "2025-11-02": 15,
@@ -473,15 +473,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fontsss.com.ico",
     "slug": "fontsss",
     "status": "up",
-    "uptime": "84.90%",
+    "uptime": "84.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.99%",
-    "time": 288,
-    "timeDay": 483,
-    "timeWeek": 601,
-    "timeMonth": 559,
+    "uptimeYear": "43.26%",
+    "time": 283,
+    "timeDay": 181,
+    "timeWeek": 572,
+    "timeMonth": 545,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2026-05-06": 285,
@@ -690,8 +690,7 @@
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
-      "2025-10-12": 1440,
-      "2025-10-11": 1440
+      "2025-10-12": 1440
     }
   }
 ]
