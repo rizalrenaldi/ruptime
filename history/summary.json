@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "52.94%",
+    "uptime": "52.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-28": 166,
+      "2026-10-29": 188,
+      "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
@@ -379,8 +380,7 @@
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
-      "2025-10-30": 1440,
-      "2025-10-29": 1440
+      "2025-10-30": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
     "time": 745,
-    "timeDay": 1450,
-    "timeWeek": 966,
-    "timeMonth": 1128,
+    "timeDay": 1185,
+    "timeWeek": 914,
+    "timeMonth": 1126,
     "timeYear": 750,
     "dailyMinutesDown": {
       "2026-03-20": 27,
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1463,
-    "timeDay": 485,
-    "timeWeek": 435,
-    "timeMonth": 534,
-    "timeYear": 1267,
+    "time": 1464,
+    "timeDay": 2612,
+    "timeWeek": 732,
+    "timeMonth": 613,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2025-11-02": 15,
       "2025-12-02": 29,
@@ -476,12 +476,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "47.92%",
-    "time": 258,
-    "timeDay": 611,
-    "timeWeek": 558,
-    "timeMonth": 569,
-    "timeYear": 282,
+    "uptimeYear": "48.20%",
+    "time": 259,
+    "timeDay": 493,
+    "timeWeek": 550,
+    "timeMonth": 572,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -671,8 +671,7 @@
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
-      "2025-10-30": 1440,
-      "2025-10-29": 1440
+      "2025-10-30": 1440
     }
   }
 ]
