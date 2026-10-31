@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "52.88%",
+    "uptime": "52.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 192,
+      "2026-10-31": 177,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -379,8 +380,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
-    "time": 746,
-    "timeDay": 1564,
-    "timeWeek": 1068,
-    "timeMonth": 1135,
-    "timeYear": 751,
+    "time": 747,
+    "timeDay": 1094,
+    "timeWeek": 999,
+    "timeMonth": 1134,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2026-03-20": 27,
       "2026-03-21": 70,
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1462,
-    "timeDay": 604,
-    "timeWeek": 748,
-    "timeMonth": 576,
-    "timeYear": 1269,
+    "time": 1460,
+    "timeDay": 482,
+    "timeWeek": 768,
+    "timeMonth": 573,
+    "timeYear": 1265,
     "dailyMinutesDown": {
       "2025-11-02": 15,
       "2025-12-02": 29,
@@ -472,16 +472,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fontsss.com.ico",
     "slug": "fontsss",
     "status": "up",
-    "uptime": "85.05%",
+    "uptime": "85.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.48%",
-    "time": 259,
-    "timeDay": 729,
-    "timeWeek": 573,
-    "timeMonth": 575,
-    "timeYear": 284,
+    "uptimeYear": "48.75%",
+    "time": 260,
+    "timeDay": 532,
+    "timeWeek": 595,
+    "timeMonth": 573,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -669,8 +669,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   }
 ]
