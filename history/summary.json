@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "52.65%",
+    "uptime": "52.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-08": 176,
+      "2026-11-09": 197,
+      "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -379,8 +380,7 @@
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
-      "2025-11-10": 1440,
-      "2025-11-09": 1440
+      "2025-11-10": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
-    "time": 756,
-    "timeDay": 1490,
-    "timeWeek": 1044,
-    "timeMonth": 1068,
+    "time": 757,
+    "timeDay": 1476,
+    "timeWeek": 1187,
+    "timeMonth": 1067,
     "timeYear": 765,
     "dailyMinutesDown": {
       "2026-03-20": 27,
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1449,
-    "timeDay": 656,
-    "timeWeek": 1139,
-    "timeMonth": 675,
-    "timeYear": 1252,
+    "time": 1445,
+    "timeDay": 335,
+    "timeWeek": 1141,
+    "timeMonth": 669,
+    "timeYear": 1244,
     "dailyMinutesDown": {
       "2025-12-02": 29,
       "2026-01-08": 26
@@ -471,16 +471,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fontsss.com.ico",
     "slug": "fontsss",
     "status": "up",
-    "uptime": "85.12%",
+    "uptime": "85.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.94%",
+    "uptimeYear": "51.22%",
     "time": 263,
-    "timeDay": 565,
-    "timeWeek": 574,
-    "timeMonth": 546,
-    "timeYear": 294,
+    "timeDay": 732,
+    "timeWeek": 616,
+    "timeMonth": 549,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -659,8 +659,7 @@
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
-      "2025-11-10": 1440,
-      "2025-11-09": 1440
+      "2025-11-10": 1440
     }
   }
 ]
