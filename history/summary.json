@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "52.57%",
+    "uptime": "52.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-11": 206,
+      "2026-11-12": 276,
+      "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -379,8 +380,7 @@
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
-      "2025-11-13": 1440,
-      "2025-11-12": 1440
+      "2025-11-13": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
     "time": 758,
-    "timeDay": 1032,
-    "timeWeek": 976,
+    "timeDay": 718,
+    "timeWeek": 1032,
     "timeMonth": 1080,
     "timeYear": 770,
     "dailyMinutesDown": {
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1436,
-    "timeDay": 351,
-    "timeWeek": 857,
-    "timeMonth": 669,
-    "timeYear": 1235,
+    "time": 1432,
+    "timeDay": 489,
+    "timeWeek": 892,
+    "timeMonth": 671,
+    "timeYear": 1231,
     "dailyMinutesDown": {
       "2025-12-02": 29,
       "2026-01-08": 26
@@ -471,16 +471,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fontsss.com.ico",
     "slug": "fontsss",
     "status": "up",
-    "uptime": "85.14%",
+    "uptime": "85.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.77%",
-    "time": 263,
-    "timeDay": 344,
-    "timeWeek": 486,
-    "timeMonth": 549,
-    "timeYear": 296,
+    "uptimeYear": "52.05%",
+    "time": 264,
+    "timeDay": 786,
+    "timeWeek": 547,
+    "timeMonth": 553,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -656,8 +656,7 @@
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
-      "2025-11-13": 1440,
-      "2025-11-12": 1440
+      "2025-11-13": 1440
     }
   }
 ]
