@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-12": 1177,
+      "2026-11-13": 229,
+      "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
@@ -379,8 +380,7 @@
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
-      "2025-11-14": 1440,
-      "2025-11-13": 1440
+      "2025-11-14": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/signalsupply.co.ico",
     "slug": "signal-supply",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.51%",
-    "time": 758,
-    "timeDay": 476,
-    "timeWeek": 933,
-    "timeMonth": 1054,
-    "timeYear": 769,
+    "uptime": "99.71%",
+    "uptimeDay": "65.80%",
+    "uptimeWeek": "95.11%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.41%",
+    "time": 757,
+    "timeDay": 167,
+    "timeWeek": 884,
+    "timeMonth": 1038,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2026-03-21": 70,
       "2026-03-23": 77,
@@ -441,7 +441,8 @@
       "2026-05-03": 165,
       "2026-05-05": 191,
       "2026-05-19": 65,
-      "2026-11-12": 0
+      "2026-11-13": 229,
+      "2026-11-12": 263
     }
   },
   {
@@ -450,20 +451,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "logoipsum",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1428,
-    "timeDay": 293,
-    "timeWeek": 793,
-    "timeMonth": 653,
-    "timeYear": 1228,
+    "uptime": "99.95%",
+    "uptimeDay": "65.81%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "99.90%",
+    "time": 1425,
+    "timeDay": 120,
+    "timeWeek": 375,
+    "timeMonth": 647,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-12-02": 29,
       "2026-01-08": 26,
-      "2026-11-12": 0
+      "2026-11-13": 230,
+      "2026-11-12": 263
     }
   },
   {
@@ -472,16 +474,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fontsss.com.ico",
     "slug": "fontsss",
     "status": "up",
-    "uptime": "85.15%",
+    "uptime": "85.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.22%",
+    "uptimeYear": "52.32%",
     "time": 264,
-    "timeDay": 786,
-    "timeWeek": 547,
+    "timeDay": 431,
+    "timeWeek": 533,
     "timeMonth": 553,
-    "timeYear": 298,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -656,8 +658,7 @@
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
-      "2025-11-14": 1440,
-      "2025-11-13": 1440
+      "2025-11-14": 1440
     }
   }
 ]
