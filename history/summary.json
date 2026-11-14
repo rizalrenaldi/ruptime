@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "52.51%",
+    "uptime": "52.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-13": 443,
+      "2026-11-14": 228,
+      "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -379,8 +380,7 @@
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
-      "2025-11-15": 1440,
-      "2025-11-14": 1440
+      "2025-11-15": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/signalsupply.co.ico",
     "slug": "signal-supply",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "51.00%",
+    "uptime": "99.71%",
+    "uptimeDay": "85.08%",
     "uptimeWeek": "93.00%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "98.37%",
     "time": 757,
-    "timeDay": 342,
-    "timeWeek": 862,
-    "timeMonth": 1028,
-    "timeYear": 768,
+    "timeDay": 635,
+    "timeWeek": 817,
+    "timeMonth": 1001,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2026-03-21": 70,
       "2026-03-23": 77,
@@ -452,15 +452,15 @@
     "slug": "logoipsum",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "51.01%",
+    "uptimeDay": "85.09%",
     "uptimeWeek": "93.00%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.86%",
-    "time": 1396,
-    "timeDay": 810,
-    "timeWeek": 577,
-    "timeMonth": 694,
-    "timeYear": 1228,
+    "time": 1393,
+    "timeDay": 1272,
+    "timeWeek": 552,
+    "timeMonth": 690,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-12-02": 29,
       "2026-01-08": 26,
@@ -478,11 +478,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.36%",
+    "uptimeYear": "52.59%",
     "time": 264,
-    "timeDay": 431,
-    "timeWeek": 533,
-    "timeMonth": 553,
+    "timeDay": 360,
+    "timeWeek": 509,
+    "timeMonth": 540,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2026-05-06": 285,
@@ -657,8 +657,7 @@
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
-      "2025-11-15": 1440,
-      "2025-11-14": 1440
+      "2025-11-15": 1440
     }
   }
 ]
