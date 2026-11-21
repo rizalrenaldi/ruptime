@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satubitcoin.com.ico",
     "slug": "1bitcoin",
     "status": "down",
-    "uptime": "52.33%",
+    "uptime": "52.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-20": 276,
+      "2026-11-21": 270,
+      "2026-11-20": 1440,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -379,8 +380,7 @@
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
-      "2025-11-22": 1440,
-      "2025-11-21": 1440
+      "2025-11-22": 1440
     }
   },
   {
@@ -391,14 +391,14 @@
     "status": "up",
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.35%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "98.37%",
     "time": 764,
-    "timeDay": 809,
-    "timeWeek": 774,
-    "timeMonth": 952,
-    "timeYear": 771,
+    "timeDay": 924,
+    "timeWeek": 835,
+    "timeMonth": 930,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2026-03-21": 70,
       "2026-03-23": 77,
@@ -453,14 +453,14 @@
     "status": "up",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.35%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.86%",
-    "time": 1378,
-    "timeDay": 1714,
-    "timeWeek": 851,
-    "timeMonth": 735,
-    "timeYear": 1209,
+    "time": 1376,
+    "timeDay": 593,
+    "timeWeek": 694,
+    "timeMonth": 737,
+    "timeYear": 1205,
     "dailyMinutesDown": {
       "2025-12-02": 29,
       "2026-01-08": 26,
@@ -478,11 +478,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.24%",
+    "uptimeYear": "54.52%",
     "time": 267,
-    "timeDay": 441,
-    "timeWeek": 553,
-    "timeMonth": 546,
+    "timeDay": 326,
+    "timeWeek": 548,
+    "timeMonth": 542,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2026-05-06": 285,
@@ -650,8 +650,7 @@
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
-      "2025-11-22": 1440,
-      "2025-11-21": 1440
+      "2025-11-22": 1440
     }
   }
 ]
